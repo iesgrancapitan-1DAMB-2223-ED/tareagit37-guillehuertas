@@ -4,7 +4,8 @@ Esto lo ha editado Jose Lopez
 --------------------------------------------
 # Documentacion de la practica
 Lo primero que haremos será crear un repositorio con una segunda cuenta( este debe ser publico)
-![Captura de pantalla 2023-03-03 092506](https://user-images.githubusercontent.com/115102184/222674866-c4a79a63-cd08-4be4-bdc8-577771286eae.png)
+![Captura de pantalla 2023-03-03 092930](https://user-images.githubusercontent.com/115102184/222675075-92e72d2f-da21-4e53-8e3e-9e656fe563ab.png)
+
 Despues crearemos un readme.md en el
 
 Despues con la otra cuenta buscamos el usuario, accedemos al repo y modificamos el readme
